@@ -1,0 +1,288 @@
+.role{
+    margin:0px; padding: 0px;
+    background-color: gray;
+    width: 1350px;
+}
+
+.heading{
+    text-align: center;
+    background-color: red;
+    height: 50px;
+    padding: 10px;
+}
+
+.navigation{
+    text-align: center;
+    background-color: blue;
+    height: 20px;
+    padding: 10px;
+}
+
+.sidebar{
+
+    width: 300px;
+    background-color: greenyellow;
+    float: right;
+    min-height: 500px;
+}
+
+.content{
+
+    width: 800px;
+    background-color: aquamarine;
+    float: right;
+    min-height: 500px;
+}
+
+
+.footer{
+    clear: both;
+    text-align: center;
+    height: 20px;
+    background-color: chocolate;
+    padding: 10px;
+}
+
+.video1{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+  border-style: solid;
+  border-color: white;
+}
+
+.video2{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+    border-color: white;
+}
+
+.video3{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.video4{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.video5{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.video6{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.video7{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.video8{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.audio1{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.audio2{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.audio3{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.audio4{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.audio5{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.audio6{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.audio7{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.audio8{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.book1{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.book2{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.book3{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.book4{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.book5{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.book6{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.book7{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+.book8{
+    background-color: slategrey;
+    height: 80px;
+    width:100px;
+    float: right;
+    border-style: solid;
+  border-color: white;
+}
+
+
+.ad{
+    background-color: tan;
+    height: 100px;
+    width:180px;
+    float: right;
+}
+
+.service{
+    background-color: khaki;
+    height: 270px;
+    width:120px;
+
+}
+
+h3{
+    background-color: cornflowerblue;
+    padding: 5px;
+    margin-right: 160px;
+}
+
+.news{
+    background-color: cornsilk;
+    width: 250px;
+    min-height: 500px;
+    float: left;
+}
